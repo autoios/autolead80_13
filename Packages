@@ -1,0 +1,15 @@
+Package: com.lelam.autolead13
+Name: autolead13
+Version: 1.0.5
+Architecture: iphoneos-arm
+Description: marketing extension
+Depiction: http://repo.ioslead.com/repo/lelam/debs/com.lelam.autolead13/FILE/index.html
+Maintainer: BTS team
+Author: BTS team
+Section: System
+Depends: zip,sudo,unzip,rsync,com.hihihihehehe.jetslammed,socat,com.rpetrich.rocketbootstrap,firmware (>= 13.0)
+Conflicts: com.rbt.useragentchanger, jetslammed
+Icon: http://itiaprepo.com/tiz38/test.png
+Size: 1081260
+MD5sum: e089b56ea23f969f7055b861e28326b5
+Filename: ./debs/com.lelam.autolead13/com.lelam.autolead13.deb
